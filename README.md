@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Hoang Lam</h1>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sreekaran1704&label=Profile%20views&color=0e75b6&style=flat" alt="sreekaran1704" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lamhoang1256&label=Profile%20views&color=0e75b6&style=flat" alt="sreekaran1704" /> </p>
 
 - 🌱 I’m currently learning **Javascript, ReactJS**
 
