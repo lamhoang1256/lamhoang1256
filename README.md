@@ -4,10 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lamhoang1256&label=Profile%20views&color=0e75b6&style=flat" alt="sreekaran1704" /> </p>
 
 - 🌱 I’m currently learning **Javascript, ReactJS**
-
 - 📫 How to reach me **lamhoang1256@gmail.com**
-
 - ⚡ Fun fact **I think I have a good Sense of humor**
+- ⚡ My portfolio: https://nguyenhoanglam.vercel.app**
 
 <h3 align="left">Languages I Know</h3>
 <p align="left">
