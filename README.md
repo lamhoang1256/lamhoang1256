@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Javascript, ReactJS**
 - 📫 How to reach me **lamhoang1256@gmail.com**
 - ⚡ Fun fact **I think I have a good Sense of humor**
-- ⚡ My portfolio: **https://nguyenhoanglam.vercel.app**
+- ❤️ My portfolio: **https://nguyenhoanglam.vercel.app**
 
 <h3 align="left">Languages I Know</h3>
 <p align="left">
